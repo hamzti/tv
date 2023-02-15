@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1,###### Algeria ######
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/207007
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="",SamiraTV
-http://95.170.215.109/hls/m3u8/SamiraTV-Backup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="",Ennahar TV
-http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Echorouk TV
-http://80.241.212.158:25461/uss/axGFSC4zhv/23
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Echorouk News
-http://80.241.212.158:25461/uss/axGFSC4zhv/5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Bahia TV
-http://80.241.212.158:25461/uss/axGFSC4zhv/18
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vqz9oc6.jpg" group-title="",Al Magharibia
-http://api.new.livestream.com/accounts/7861901/events/6247367/live.m3u8
-
-#EXTINF:-1,###### Tunisia ######
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/207007
-#EXTINF:-1 tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" group-title="",Nessma
-http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" group-title="",Sahel TV
-http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cZM2t0P.png" group-title="",Tunisie Immobilier TV
-http://serv30.vintera.tv:8081/africa/tunisieimmob/chunks.m3u8
-
 #EXTINF:-1,###### Morroco ######
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/207007
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="",2M Monde
@@ -71,6 +47,29 @@ http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="",Télé Maroc
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1,###### Algeria ######
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/207007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="",SamiraTV
+http://95.170.215.109/hls/m3u8/SamiraTV-Backup.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="",Ennahar TV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Echorouk TV
+http://80.241.212.158:25461/uss/axGFSC4zhv/23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Echorouk News
+http://80.241.212.158:25461/uss/axGFSC4zhv/5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Bahia TV
+http://80.241.212.158:25461/uss/axGFSC4zhv/18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vqz9oc6.jpg" group-title="",Al Magharibia
+http://api.new.livestream.com/accounts/7861901/events/6247367/live.m3u8
+
+#EXTINF:-1,###### Tunisia ######
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/207007
+#EXTINF:-1 tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" group-title="",Nessma
+http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" group-title="",Sahel TV
+http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cZM2t0P.png" group-title="",Tunisie Immobilier TV
+http://serv30.vintera.tv:8081/africa/tunisieimmob/chunks.m3u8
 
 
 #EXTINF:-1,###### Saudi Arabia ######
